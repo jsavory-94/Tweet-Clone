@@ -1,0 +1,86 @@
+/*Profile*/
+.profile{padding:20px 0 0 20px;}
+
+#profilepic {float:left;
+             margin: 0 30px 0px 0;}
+
+h1 {font-weight: bold;
+    font-family: Helvetica;
+    float: left;
+    margin: 0 10px 0px 10px;
+    padding: 0 0 0 0;
+    font-size: 25px;}
+
+h2 {color: rgb(105,120,130);
+    font-family: Helvetica;
+    margin: 0 0px 0px 0;
+    padding: 0 0 0 0;
+    font-size: 25px;}
+
+#acclogo {float:left;
+          margin: 0 0px 0px 0;}
+
+/*Follow Button*/
+.follow {position: absolute;
+         top: 20px;
+         left: 500px;
+         height:30px;
+         width: 75px;
+
+         border: 2px solid;
+         border-color: rgb(85, 172, 238);
+         border-radius: 12px;
+
+         padding: 20px 50px 20px 60px;
+
+         font-family: Helvetica;
+         font-size: 25px;
+         font-weight: bolder;
+         color: rgb(85,172,238);}
+
+
+#twitterlogo{position:absolute;
+             top:40px;
+             left:520px;}
+
+/*Tweet*/
+.tweet{font-size: 25px;
+font-family: Helvetica;}
+
+.tweet-body {margin: 30px 0 0 20px;}
+
+.tweet-timedate {
+    color: rgb(105,120,130);
+    margin: 10px 0 25px 20px;}
+
+/*Buttons*/
+.buttons {color: rgb(105,120,130);
+font-family: Helvetica;
+font-size: 25px;}
+
+#reply{float:left;
+       margin:0 35px 0 20px;}
+
+#retweet{float:left;
+       margin:0 10px 0 0;}  
+
+.retweet{float:left;
+       margin:0 35px 0 0;}
+
+#favorite{float:left;
+       margin:0 10px 0 0;}
+
+.favorite{float:left;
+       margin:0 0 0 0;}
+
+/*Page Border*/
+.pageborder {position: absolute;
+             top:0px;
+             left:0px;
+             width:60%;
+             height:45%;
+
+             border: 2px solid;
+             color: rgb(225,232,237);
+             border-radius: 12px;
+             top: 0px }
