@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="tweet-clone.css">
+  <title>HTML &amp; CSS | Ironhack PreWork |</title>
+</head>
+
+<!Profile>
+<div class = "profile"
+ <body>
+ <img src="img/profile-picture.jpg" id="profilepic" >
+
+ <img src="img/account-logo.jpg" id="acclogo">
+ <h1> <strong> jack </strong> </h1>
+ <img src="img/validated-account.jpg" id="validatedacc">
+</div>
+
+<!Follow Button>
+<img src = "img/twitter-logo.jpg" id="twitterlogo">
+<div class = "follow">
+  Follow
+</div>
+
+<!Tweet>
+<div class = "tweet">
+ <h2> @jack </h2>
+ <p class="tweet-body"> just setting up my twttr </p>
+ <p class="tweet-timedate"> 9:50 PM - 21 Mar 2006 </p>
+</div>
+
+<!Buttons>
+<div class = "buttons">
+<img src="img/reply.jpg" id="reply">
+<img src="img/retweet.jpg" id="retweet">
+<p class = "retweet"> 92,555 </p>
+<img src="img/favorite.jpg" id="favorite">
+<p class="favorite"> 71,111 </p>
+</div>
+
+<!Page Border>
+<div class = "pageborder">
+</div>
+
+</body>
+</html>
